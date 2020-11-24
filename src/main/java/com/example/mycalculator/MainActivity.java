@@ -448,6 +448,7 @@ public class MainActivity extends AppCompatActivity {
                     {
                         show_equation.append("-");
                     }
+
                     result.setText(show_equation);
                     result.setSelection(result.getText().length());
                 }
